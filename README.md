@@ -1,14 +1,10 @@
 # Hi there, I'm Yash Gupta 👋
 
 ### 🏆 Achievements & Badges
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashstack-bot&repo=yashstack-bot&show_owner=true&theme=tokyonight" alt="Yash's Badges" align="right" width="300" />
-  
 - 🏅 **17th Rank** in **AcWoC '26** Open Source Program.
 - ✨ **Campus Ambassador** for **IIT Delhi (eDC)** & **IIT Guwahati (UDGAM)**.
 - 🚀 Active Contributor in **DSCWoC '26**.
 - 🛡️ **GitHub Badges:** Proud owner of the **YOLO**, **Pull Shark**, and **Quickdraw** achievements.
-</p>
 
 ---
 
@@ -45,6 +41,8 @@ I am a **Full Stack Web Developer** and B.Tech student at **VIT Bhopal Universit
 ### 📊 GitHub Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yashstack-bot&show_icons=true&theme=tokyonight" alt="Yash's Stats" />
+</p>
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashstack-bot&theme=tokyonight" alt="Yash's Streak" />
 </p>
 
